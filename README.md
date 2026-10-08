@@ -1,6 +1,6 @@
 # adrianoangeloo
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=520&lines=Ol%C3%A1,+eu+sou+o+Adriano;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Texto animado"> </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=620&height=50&lines=Ol%C3%A1,+eu+sou+o+Adriano;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o"> </div>
 
 <p align="left">Sou estudante de Ciência da Computação na Uninove e estou começando minha jornada na área de tecnologia. Atualmente, tenho me interessado bastante por Linux, redes de computadores e infraestrutura de TI, buscando aprender coisas novas e colocar meus conhecimentos em prática.
 
