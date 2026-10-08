@@ -1,8 +1,12 @@
-# adrianoageloo
+# adrianoangeloo
 
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=520&lines=Ol%C3%A1,+eu+sou+o+Adriano;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Texto animado"> </div>
 
-<p align="center"> Estudante de Ciência da Computação na Uni9 e atualmente trabalho como jovem aprendiz de TI. </p> <p align="center"> Hoje estou focado em Linux e redes, e uso este perfil para documentar o que aprendo e construo, principalmente nas minhas máquinas virtuais. Sou do tipo que aprende fazendo, então cada projeto aqui vem com um README explicando o que foi feito e como funciona. Estou sempre em busca de novos desafios e da minha primeira oportunidade de estágio na área. </p>
+<p align="center">Sou estudante de Ciência da Computação na Uninove e estou começando minha jornada na área de tecnologia. Atualmente, tenho me interessado bastante por Linux, redes de computadores e infraestrutura de TI, buscando aprender coisas novas e colocar meus conhecimentos em prática.
+
+Gosto de entender como as coisas funcionam, resolver problemas e estar sempre aprendendo. Estou usando este espaço para compartilhar meus estudos, projetos e minha evolução ao longo dessa jornada.
+
+Seja bem-vindo ao meu perfil!. </p>
 
 <img align="right" alt="" height="190px" src="">
 
