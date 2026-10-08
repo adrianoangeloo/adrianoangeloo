@@ -12,12 +12,21 @@ Seja bem-vindo ao meu perfil!. </p>
 
 <h3 align="left">Connect with me!</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/adrianoangeloo/">
+<p align="left" >
+  <a href="https://www.linkedin.com/in/adrianoangeloo/" color = white;>
     <img src="https://www.svgrepo.com/show/299085/linkedin.svg" width="40" />
+    LinkedIn: Adriano Angelo
   </a>
+  <br>
   <a href="mailto:adrianoangeloxsj@gmail.com">
     <img src="https://www.svgrepo.com/show/395714/email-message-mail-envelope.svg" width="40" />
+    E-mail: adrianoangeloxsj@gmail.com
+  </a>
+  <br>
+  <a href="https://www.instagram.com/adrianohzs/">
+    <img src="https://www.svgrepo.com/show/299082/instagram.svg" width="40" />
+    Instagram: @adrianohzs
   </a>
 </p>
+
 
